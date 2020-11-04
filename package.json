@@ -1,0 +1,20 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "a server creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incarnate87/sample_nodejs.git"
+  },
+  "author": "incarnate87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incarnate87/sample_nodejs/issues"
+  },
+  "homepage": "https://github.com/incarnate87/sample_nodejs#readme"
+}
